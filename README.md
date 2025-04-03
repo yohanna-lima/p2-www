@@ -1,4 +1,3 @@
-# Sistemas de informação - Unifacisa
-# Desenvolvimento web
+# Desenvolvimento web (Sistemas de informação - Unifacisa)
 
 Projeto realizado durante a disciplina de desenvolvimento web.
